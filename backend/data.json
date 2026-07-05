@@ -1,0 +1,547 @@
+{
+  "reports": [
+    {
+      "id": "rep_portal_1783217095098",
+      "name": "Mobile Citizen Portal",
+      "village": "Dhamni",
+      "lat": 17.78083300513502,
+      "lon": 83.37635783866122,
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "fire",
+      "timestamp": "2026-07-05T02:04:55.098Z",
+      "photo_url": "/uploads/citizen-1783217095096-849642615.jpg",
+      "audio_url": null
+    },
+    {
+      "id": "rep_portal_1783212337384",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "lat": 17.78084072417271,
+      "lon": 83.37632792932509,
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "medium",
+      "summary": "A citizen report needing administrative review.",
+      "description": "Voice report submitted without text.",
+      "timestamp": "2026-07-05T00:45:37.384Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212328003_1",
+      "name": "Simulated Citizen 1",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Thick plastic smoke and toxic fumes from garbage fire.",
+      "description": "Someone has set fire to a massive pile of plastics and garbage in Karanji near the market. The air is toxic and black smoke is spreading.",
+      "timestamp": "2026-07-05T00:45:28.003Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212328003_2",
+      "name": "Simulated Citizen 2",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Smoke Pollution",
+      "urgency": "high",
+      "summary": "Burning garbage pit causing asthma attacks.",
+      "description": "The garbage fire in Karanji is still burning. Children and elderly people are having breathing issues. Thick smoke everywhere.",
+      "timestamp": "2026-07-05T00:45:28.003Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212328003_3",
+      "name": "Simulated Citizen 3",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Garbage Burning",
+      "urgency": "high",
+      "summary": "Smoke from dumping ground fire choking the street.",
+      "description": "Very bad air quality in Karanji due to the municipal garbage burn. Thick grey smoke is choking the streets.",
+      "timestamp": "2026-07-05T00:45:28.003Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212325739_1",
+      "name": "Simulated Citizen 1",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Thick plastic smoke and toxic fumes from garbage fire.",
+      "description": "Someone has set fire to a massive pile of plastics and garbage in Karanji near the market. The air is toxic and black smoke is spreading.",
+      "timestamp": "2026-07-05T00:45:25.739Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212325739_2",
+      "name": "Simulated Citizen 2",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Smoke Pollution",
+      "urgency": "high",
+      "summary": "Burning garbage pit causing asthma attacks.",
+      "description": "The garbage fire in Karanji is still burning. Children and elderly people are having breathing issues. Thick smoke everywhere.",
+      "timestamp": "2026-07-05T00:45:25.739Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783212325739_3",
+      "name": "Simulated Citizen 3",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Garbage Burning",
+      "urgency": "high",
+      "summary": "Smoke from dumping ground fire choking the street.",
+      "description": "Very bad air quality in Karanji due to the municipal garbage burn. Thick grey smoke is choking the streets.",
+      "timestamp": "2026-07-05T00:45:25.739Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_portal_1783211986130",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "lat": 17.78084810720562,
+      "lon": 83.37628774882836,
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "medium",
+      "summary": "A citizen report needing administrative review.",
+      "description": "Voice report submitted without text.",
+      "timestamp": "2026-07-05T00:39:46.130Z",
+      "photo_url": "/uploads/citizen-1783211986125-406995218.jpg"
+    },
+    {
+      "id": "rep_portal_1783211819880",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "lat": 17.780837575972285,
+      "lon": 83.37633924773391,
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "medium",
+      "summary": "A citizen report needing administrative review.",
+      "description": "Voice report submitted without text.",
+      "timestamp": "2026-07-05T00:36:59.881Z",
+      "photo_url": "/uploads/citizen-1783211819877-476353893.jpg"
+    },
+    {
+      "id": "rep_portal_1783211398387",
+      "name": "Mobile Citizen Portal",
+      "village": "Karanji",
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "medium",
+      "summary": "A citizen report needing administrative review.",
+      "description": "Final verification: audio and location test",
+      "timestamp": "2026-07-05T00:29:58.387Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783211035050_1",
+      "name": "Simulated Citizen 1",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Thick plastic smoke and toxic fumes from garbage fire.",
+      "description": "Someone has set fire to a massive pile of plastics and garbage in Karanji near the market. The air is toxic and black smoke is spreading.",
+      "timestamp": "2026-07-05T00:23:55.050Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783211035051_2",
+      "name": "Simulated Citizen 2",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Smoke Pollution",
+      "urgency": "high",
+      "summary": "Burning garbage pit causing asthma attacks.",
+      "description": "The garbage fire in Karanji is still burning. Children and elderly people are having breathing issues. Thick smoke everywhere.",
+      "timestamp": "2026-07-05T00:23:55.050Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783211035051_3",
+      "name": "Simulated Citizen 3",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Garbage Burning",
+      "urgency": "high",
+      "summary": "Smoke from dumping ground fire choking the street.",
+      "description": "Very bad air quality in Karanji due to the municipal garbage burn. Thick grey smoke is choking the streets.",
+      "timestamp": "2026-07-05T00:23:55.050Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_portal_1783211030137",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "fire\n",
+      "timestamp": "2026-07-05T00:23:50.137Z",
+      "photo_url": "/uploads/citizen-1783211030134-466765746.jpg"
+    },
+    {
+      "id": "sim_rep_1783210646856_1",
+      "name": "Simulated Citizen 1",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Thick plastic smoke and toxic fumes from garbage fire.",
+      "description": "Someone has set fire to a massive pile of plastics and garbage in Karanji near the market. The air is toxic and black smoke is spreading.",
+      "timestamp": "2026-07-05T00:17:26.856Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783210646856_2",
+      "name": "Simulated Citizen 2",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Smoke Pollution",
+      "urgency": "high",
+      "summary": "Burning garbage pit causing asthma attacks.",
+      "description": "The garbage fire in Karanji is still burning. Children and elderly people are having breathing issues. Thick smoke everywhere.",
+      "timestamp": "2026-07-05T00:17:26.856Z",
+      "photo_url": null
+    },
+    {
+      "id": "sim_rep_1783210646856_3",
+      "name": "Simulated Citizen 3",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Garbage Burning",
+      "urgency": "high",
+      "summary": "Smoke from dumping ground fire choking the street.",
+      "description": "Very bad air quality in Karanji due to the municipal garbage burn. Thick grey smoke is choking the streets.",
+      "timestamp": "2026-07-05T00:17:26.856Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_portal_1783210535694",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "fireee",
+      "timestamp": "2026-07-05T00:15:35.694Z",
+      "photo_url": "/uploads/citizen-1783210535690-713821005.jpg"
+    },
+    {
+      "id": "rep_portal_1783210438849",
+      "name": "Mobile Citizen Portal",
+      "village": "Karanji",
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "medium",
+      "summary": "A citizen report needing administrative review.",
+      "description": "UI visibility and recording fix verification",
+      "timestamp": "2026-07-05T00:13:58.849Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_portal_1783209952821",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "fire\n",
+      "timestamp": "2026-07-05T00:05:52.821Z",
+      "photo_url": "/uploads/citizen-1783209952817-124003921.jpg"
+    },
+    {
+      "id": "rep_portal_1783209765499",
+      "name": "Mobile Citizen Portal",
+      "village": "Bodwad",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "fire",
+      "timestamp": "2026-07-05T00:02:45.499Z",
+      "photo_url": "/uploads/citizen-1783209765494-245010954.jpg"
+    },
+    {
+      "id": "rep_portal_1783209624365",
+      "name": "Mobile Citizen Portal",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "high",
+      "summary": "Air pollution incident with visible smoke and debris burning.",
+      "description": "Mobile portal smoke report verification",
+      "timestamp": "2026-07-05T00:00:24.365Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_1783206172960",
+      "name": "WhatsApp Reporter",
+      "village": "Karanji",
+      "category": "agriculture",
+      "issue_tag": "Crop Disease",
+      "urgency": "high",
+      "summary": "Agricultural issue regarding crop stress reported by citizen.",
+      "description": "inadequate healthcare, poor transportation , lack of clean drinking water",
+      "timestamp": "2026-07-04T23:02:52.960Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_1",
+      "name": "Arjun Patel",
+      "village": "Rampur",
+      "category": "agriculture",
+      "issue_tag": "Crop Disease",
+      "urgency": "high",
+      "summary": "Widespread blight affecting cotton crops in southern fields.",
+      "description": "The cotton leaves are turning yellow and black. It is spreading quickly across multiple farms in our village. We need agricultural officers to inspect.",
+      "timestamp": "2026-07-04T10:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_2",
+      "name": "Meera Bai",
+      "village": "Rampur",
+      "category": "agriculture",
+      "issue_tag": "Soil Dryness",
+      "urgency": "high",
+      "summary": "Severe soil moisture depletion threatening wheat seedlings.",
+      "description": "The ground is cracked and dry. Without immediate canal release or irrigation support, the entire crop season will fail.",
+      "timestamp": "2026-07-04T11:30:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_3",
+      "name": "Ramesh Kumar",
+      "village": "Rampur",
+      "category": "agriculture",
+      "issue_tag": "Pest Attack",
+      "urgency": "high",
+      "summary": "Swarm of insects destroying vegetable plantations.",
+      "description": "Insects are eating all the leaves overnight. Standard pesticides are not working. Requesting advice and intervention.",
+      "timestamp": "2026-07-04T14:15:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_4",
+      "name": "Sanjay Singh",
+      "village": "Karanji",
+      "category": "pollution",
+      "issue_tag": "Burning Garbage",
+      "urgency": "medium",
+      "summary": "Open burning of municipal solid waste near school.",
+      "description": "Thick black smoke is entering the school classrooms. Children are coughing. It happens every evening around 5 PM.",
+      "timestamp": "2026-07-04T17:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_5",
+      "name": "Amit Patil",
+      "village": "Karanji",
+      "category": "infrastructure",
+      "issue_tag": "Pothole",
+      "urgency": "high",
+      "summary": "Massive pothole on the main village connector road.",
+      "description": "A very deep pothole has formed near the entrance. Two motorcyclists fell yesterday. Extremely dangerous at night.",
+      "timestamp": "2026-07-03T09:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_6",
+      "name": "Sunita Devi",
+      "village": "Dhamni",
+      "category": "health",
+      "issue_tag": "Fever Outbreak",
+      "urgency": "high",
+      "summary": "Multiple dengue-like fever cases reported in Ward 3.",
+      "description": "Over 10 people in our lane have high fever and joint pain. The local clinic is overcrowded. Please set up a medical camp.",
+      "timestamp": "2026-07-03T10:30:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_7",
+      "name": "Vijay Shinde",
+      "village": "Dhamni",
+      "category": "pollution",
+      "issue_tag": "Chemical Runoff",
+      "urgency": "high",
+      "summary": "Unidentified red discharge in local stream.",
+      "description": "A nearby small industry is releasing red colored water into our drinking stream. Animals are falling sick after drinking it.",
+      "timestamp": "2026-07-03T15:20:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_8",
+      "name": "Karan Sharma",
+      "village": "Pipalta",
+      "category": "infrastructure",
+      "issue_tag": "Broken Bridge",
+      "urgency": "high",
+      "summary": "Pedestrian footbridge handrails collapsed.",
+      "description": "The wooden bridge handrails collapsed after heavy rain. School children use this daily. It needs urgent repair.",
+      "timestamp": "2026-07-02T08:15:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_9",
+      "name": "Lata Mangesh",
+      "village": "Bodwad",
+      "category": "health",
+      "issue_tag": "Water Contamination",
+      "urgency": "medium",
+      "summary": "Muddy tap water supplying Ward 1.",
+      "description": "Water from public taps has been brown and smelling bad for three days. Many kids are complaining of stomach aches.",
+      "timestamp": "2026-07-02T12:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_10",
+      "name": "Rajesh Gore",
+      "village": "Bodwad",
+      "category": "infrastructure",
+      "issue_tag": "Streetlight Failure",
+      "urgency": "low",
+      "summary": "Streetlights non-functional for past two weeks.",
+      "description": "Entire lane near the temple is completely dark. High risk of snake bites and theft.",
+      "timestamp": "2026-07-02T20:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_11",
+      "name": "Anil Deshmukh",
+      "village": "Pipalta",
+      "category": "pollution",
+      "issue_tag": "Plastic Dumping",
+      "urgency": "medium",
+      "summary": "Illegal plastic waste dumping in forest boundary.",
+      "description": "Tons of plastic bags and bottles are being dumped by commercial trucks. Cows are eating the plastic.",
+      "timestamp": "2026-07-01T11:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_12",
+      "name": "Seema Rao",
+      "village": "Karanji",
+      "category": "health",
+      "issue_tag": "Vaccine Shortage",
+      "urgency": "medium",
+      "summary": "Basic pediatric vaccines out of stock at PHC.",
+      "description": "Came to vaccinate my 6-month-old but the doctor said vaccines are unavailable. Next supply is two weeks away.",
+      "timestamp": "2026-07-01T14:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_13",
+      "name": "Gopal Jadhav",
+      "village": "Dhamni",
+      "category": "infrastructure",
+      "issue_tag": "Drain Blockage",
+      "urgency": "medium",
+      "summary": "Clogged open drain causing sewage overflow.",
+      "description": "The main drain is choked with garbage. Water is overflowing onto the streets, causing foul smell and mosquito breeding.",
+      "timestamp": "2026-06-30T10:00:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_14",
+      "name": "Vikram Rathod",
+      "village": "Pipalta",
+      "category": "agriculture",
+      "issue_tag": "Fodder Scarcity",
+      "urgency": "medium",
+      "summary": "Dry pasture lands leading to fodder shortage.",
+      "description": "Due to low rains, local grazing lands have completely dried up. Cattle feed prices have doubled.",
+      "timestamp": "2026-06-30T15:30:00Z",
+      "photo_url": null
+    },
+    {
+      "id": "rep_15",
+      "name": "Radha Bai",
+      "village": "Bodwad",
+      "category": "agriculture",
+      "issue_tag": "Unseasonal Hail",
+      "urgency": "high",
+      "summary": "Hailstorm damaged ripening banana plantation.",
+      "description": "Sudden hail yesterday broke all the banana leaves and stems. Massive loss for 20+ farmers.",
+      "timestamp": "2026-06-29T16:45:00Z",
+      "photo_url": null
+    }
+  ],
+  "phc_stocks": {
+    "Karanji": {
+      "phc_name": "Karanji Primary Health Centre",
+      "respiratory_medicine": 15,
+      "antimalarial_medicine": 120,
+      "paracetamol": 340,
+      "last_updated": "2026-07-04T18:00:00Z"
+    },
+    "Rampur": {
+      "phc_name": "Rampur Primary Health Centre",
+      "respiratory_medicine": 85,
+      "antimalarial_medicine": 90,
+      "paracetamol": 500,
+      "last_updated": "2026-07-04T18:00:00Z"
+    },
+    "Dhamni": {
+      "phc_name": "Dhamni Primary Health Centre",
+      "respiratory_medicine": 110,
+      "antimalarial_medicine": 20,
+      "paracetamol": 150,
+      "last_updated": "2026-07-04T18:00:00Z"
+    },
+    "Pipalta": {
+      "phc_name": "Pipalta Primary Health Centre",
+      "respiratory_medicine": 60,
+      "antimalarial_medicine": 70,
+      "paracetamol": 250,
+      "last_updated": "2026-07-04T18:00:00Z"
+    },
+    "Bodwad": {
+      "phc_name": "Bodwad Primary Health Centre",
+      "respiratory_medicine": 95,
+      "antimalarial_medicine": 110,
+      "paracetamol": 420,
+      "last_updated": "2026-07-04T18:00:00Z"
+    }
+  },
+  "groundwater_levels": {
+    "Karanji": 65,
+    "Rampur": 28,
+    "Dhamni": 48,
+    "Pipalta": 55,
+    "Bodwad": 37
+  },
+  "village_coordinates": {
+    "Karanji": {
+      "lat": 20.9324,
+      "lng": 77.7523
+    },
+    "Rampur": {
+      "lat": 20.8912,
+      "lng": 77.689
+    },
+    "Dhamni": {
+      "lat": 20.9745,
+      "lng": 77.7124
+    },
+    "Pipalta": {
+      "lat": 20.951,
+      "lng": 77.8201
+    },
+    "Bodwad": {
+      "lat": 20.8654,
+      "lng": 77.7812
+    }
+  }
+}

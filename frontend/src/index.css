@@ -1,0 +1,149 @@
+@import "leaflet/dist/leaflet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#F7F8FA] text-[#1A1D23] font-sans antialiased overflow-x-hidden;
+  }
+}
+
+/* Custom Scrollbar for Light Mode */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(241, 243, 245, 0.5);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(107, 114, 128, 0.3);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(107, 114, 128, 0.5);
+}
+
+/* Light Mode Panel Styling */
+.glass-panel {
+  background: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+.glass-panel-glow {
+  box-shadow: 0 0 20px rgba(30, 75, 140, 0.05);
+}
+
+/* Custom Leaflet Map Styling for Light Mode */
+.leaflet-container {
+  background: #f1f3f5 !important;
+  font-family: inherit;
+}
+
+/* Pulse animation for high urgency pins in brick red */
+@keyframes pin-pulse {
+  0% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(192, 57, 43, 0.7);
+  }
+  70% {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 8px rgba(192, 57, 43, 0);
+  }
+  100% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(192, 57, 43, 0);
+  }
+}
+
+.pulse-pin-high {
+  animation: pin-pulse 2s infinite;
+  border-radius: 50%;
+}
+
+/* Custom marker styles */
+.map-marker-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 2px solid #ffffff;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.map-marker-pin:hover {
+  transform: scale(1.2) translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+}
+
+.marker-infrastructure {
+  background-color: #C0392B; /* Brick Red */
+  box-shadow: 0 0 8px rgba(192, 57, 43, 0.4);
+}
+
+.marker-pollution {
+  background-color: #7F8C8D; /* Slate Grey */
+  box-shadow: 0 0 8px rgba(127, 140, 142, 0.4);
+}
+
+.marker-health {
+  background-color: #2874A6; /* Steel Blue */
+  box-shadow: 0 0 8px rgba(40, 116, 166, 0.4);
+}
+
+.marker-agriculture {
+  background-color: #27824C; /* Forest Green */
+  box-shadow: 0 0 8px rgba(39, 130, 76, 0.4);
+}
+
+/* Village boundary/label overlay style (Light Mode) */
+.village-label {
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  color: #1A1D23;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+/* Shine effect for buttons */
+.shine-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.shine-effect::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    to bottom right,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.05) 40%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0.05) 60%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: rotate(45deg);
+  transition: all 0.5s ease;
+  opacity: 0;
+}
+
+.shine-effect:hover::after {
+  left: 120%;
+  top: 120%;
+  opacity: 1;
+  transition: all 0.8s ease;
+}
